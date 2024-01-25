@@ -102,7 +102,7 @@ def main():
     draw_sglobe(t)
     
     space.exitonclick()
-    
+     
 
 
 # # Only run the main function if this file is executed (not imported)
