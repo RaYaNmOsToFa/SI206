@@ -156,18 +156,18 @@ def test():
     print(" ")
 
 def main():
-#     # defines the possible answers
-#     answers = ["definitely", "Most likely", "It is certain", "Maybe", "Cannot predict now", "Very doubtful", "Don't count on it", "Absolutely not"]
+    # defines the possible answers
+    answers = ["definitely", "Most likely", "It is certain", "Maybe", "Cannot predict now", "Very doubtful", "Don't count on it", "Absolutely not"]
     
-#     # creates a MagicEightBall object
-#     ball = MagicEightBall(answers)
+    # creates a MagicEightBall object
+    ball = MagicEightBall(answers)
 
-#     # initiates the game play using the play_game method
-#     ball.play_game()
+    # initiates the game play using the play_game method
+    ball.play_game()
     
-#     # shows the output of print_answer_frequencies
-#     ball.print_answer_frequencies()
-    test()
+    # shows the output of print_answer_frequencies
+    ball.print_answer_frequencies()
+    # test()
 
 
 
