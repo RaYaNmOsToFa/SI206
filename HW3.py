@@ -70,7 +70,7 @@ class MagicEightBall():
     # RETURNS: dictionary that maps answers to frequencies
     #          if no answers have been given, return an empty dictionary
     def print_answer_frequencies(self):
-        
+        #works
         dictionary = {}                
         
         for item in self.answers_history_list:
